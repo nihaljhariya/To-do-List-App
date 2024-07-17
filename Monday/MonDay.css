@@ -1,0 +1,166 @@
+.outer{
+    height:42rem;
+    width:21rem;
+    border:2px solid black;
+    border-radius: 2.5rem;
+    margin:auto;
+    background-color: rgb(23, 22, 22);
+    box-shadow: 0px 0px 8px;
+    z-index: 1;
+}
+.outer1{
+    margin-top: .30rem;
+    margin-left: .14rem;
+    height:41rem;
+    width:20.5rem;
+    border:2px solid black;
+    border-radius: 2.5rem; 
+    background-color:rgb(80, 98, 95);
+ 
+}
+.display{
+    margin-top:1.6rem;
+    margin-left:6.7rem ;
+    height:0;
+    width:7rem;
+    border:2px solid rgb(48, 45, 45);
+     position:fixed;
+}
+.navBar{
+    height:3rem;
+    width:19.5rem;
+    margin-left:.5rem;
+    /* border:2px solid black; */
+    border-radius: 2rem;
+    display: flex;
+    /* background-color: rgb(255, 255, 255); */
+      position:relative;
+   
+    
+}
+.ForC{
+    margin-top: .3rem;
+    height:5rem;
+    width:13%;
+   
+ 
+}
+.ForT{
+    height:2rem;
+    margin-top: .01rem;
+    margin-left: 1rem;
+    width:30%;   
+    /* border:2px solid black; */
+}
+.ForN{
+    height:5rem;
+    width:60%;
+    margin-top: .4rem;
+    /* border:2px solid black; */
+    margin-left:6rem;
+      
+}
+.camera{
+    margin-left :1rem;
+    margin-top :.7rem;
+    height:1rem;
+    width :1rem;
+    border-radius: 50%;
+    /* border:2px solid rgba(53, 47, 47, 0.129); */
+    background-color: rgb(0, 0, 0);
+      position:fixed;
+    
+}
+
+
+.List1{
+    color:white;
+    height:5rem;
+    width:20.5rem;
+    color: black;
+    margin-top: .005rem;
+    /* border:2px solid black; */
+    background-image: url(Image/Head1111.png);
+    text-align: center;
+}
+
+
+.List{
+    height:8.5rem;
+    width:20.5rem;
+    border:2px solid black;
+    /* margin-top: 1rem; */
+  
+}
+.PageOuter{
+    height:30rem;
+    width:19.4rem;
+    border:2px solid black;
+    margin-top:6rem;
+    margin-left:0.5rem;
+    background-color: black;
+    background-image: url(Image/Border.jpg);
+    
+}
+.PageInner{
+  
+    height:27rem; 
+    width:17.6rem;
+    border:2px solid black; 
+    margin-top: 1.35rem;
+    margin-left: 0.8rem;
+    background-color: rgba(255, 255, 255, 0.517);
+    
+    overflow-y:auto;
+    /* overflow-y: scroll; */
+    
+}
+.TaskHead{
+    height:4.2rem;
+    width:16rem;
+    margin-top:1rem;
+    margin-left: 0.7rem;
+    border:2px solid black;
+    background-image: url(Image/HEad2.png);
+    border-radius: 2.5rem;
+    text-align: center;
+}
+.Back{
+      width:4rem;
+      margin-left: 15rem;
+      border-radius: 2.5rem; 
+      color: rgb(245, 245, 245);
+      background-color: rgb(0, 0, 0);
+}
+.PageInner input{
+    margin-top: 1rem; 
+    height:1.5rem;
+    border-radius: 2.5rem;
+    /* background-color: rgb(155, 210, 138); */
+    margin-left:0.5rem;
+    text-align: center;
+    box-shadow: 1px 1px 4px;
+}
+.PageInner button{
+    border-radius: 2.5rem;
+    height:1.5rem;
+    width:4rem;
+    margin-top: .5rem;
+    margin-left:0.5rem;
+    background-color:black;
+    color:white;
+    box-shadow:3px 3px 8px ;
+}
+.PageInner button:active{
+    border-radius: 2.5rem;
+    height:1.5rem;
+    width:4rem;
+    margin-top: .5rem;
+    margin-left:0.5rem;
+    background-color:white;
+    color:black;
+    /* box-shadow:2px 2px 8px ; */
+}
+
+
+
